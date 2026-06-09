@@ -1,2 +1,2 @@
 # Ikibot
-bang not Iki yang pintarr
+bot ikiii plenger
